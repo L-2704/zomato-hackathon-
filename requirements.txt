@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+faker
+mlxtend
+lightgbm
+torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+matplotlib
+seaborn
+plotly
+jupyter

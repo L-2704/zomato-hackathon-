@@ -1,0 +1,101 @@
+restaurant_id,name,city,zone,primary_cuisine,cuisine_tags,price_tier,rating,avg_prep_time,free_delivery_min,discount_thresholds
+R0001,Choudhury Dosa Corner,Jaipur,South,South Indian,"[""South Indian""]",mid,3.2,42,0,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 20}, {""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
+R0002,Sweet Bakshi,Mumbai,East,Desserts & Bakery,"[""Desserts & Bakery""]",budget,3.9,10,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 20}, {""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0003,Desi Maharaj,Hyderabad,East,North Indian,"[""North Indian""]",mid,3.5,25,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 15}]"
+R0004,Konda Mughlai House,Bangalore,North,Mughlai,"[""Mughlai""]",budget,3.5,39,0,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 20}]"
+R0005,Desi Kapoor,Kolkata,North,North Indian,"[""North Indian""]",mid,2.7,16,299,[]
+R0006,Dewan's Dhaba,Delhi,West,North Indian,"[""North Indian""]",budget,3.6,33,149,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}]"
+R0007,Chaudry's Dhaba,Bangalore,Central,North Indian,"[""North Indian""]",budget,4.3,32,249,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 15}, {""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0008,Royal Chahal,Delhi,West,Mughlai,"[""Mughlai""]",mid,4.2,27,199,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 20}]"
+R0009,Desi Sami,Delhi,South,North Indian,"[""North Indian""]",mid,3.6,24,0,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 10}]"
+R0010,The Balay Kitchen,Delhi,West,Continental,"[""Continental""]",mid,4.6,31,249,"[{""type"": ""free_item"", ""min_order"": 399, ""free_item"": ""Free Dessert""}]"
+R0011,Balan Wok,Delhi,East,Chinese,"[""Chinese""]",premium,4.5,26,249,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}, {""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
+R0012,Chander Italian Kitchen,Pune,South,Italian,"[""Italian""]",mid,3.6,22,149,[]
+R0013,Royal Kamdar,Bangalore,Central,Mughlai,"[""Mughlai""]",budget,4.2,16,249,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 20}]"
+R0014,China Kaul,Mumbai,Central,Chinese,"[""Chinese""]",mid,4.0,40,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 20}]"
+R0015,Tiwari Da Dhaba,Kolkata,West,North Indian,"[""North Indian""]",mid,4.1,42,0,[]
+R0016,Bala's Pizzeria,Delhi,East,Italian,"[""Italian""]",budget,3.0,25,199,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 20}]"
+R0017,Royal Issac Biryani,Chennai,North,Biryani,"[""Biryani""]",premium,3.6,29,199,[]
+R0018,Saini Dosa Corner,Lucknow,East,South Indian,"[""South Indian""]",mid,3.7,26,149,[]
+R0019,Urban Kannan,Kolkata,East,Continental,"[""Continental""]",budget,3.9,19,0,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}]"
+R0020,Cafe Sen,Mumbai,East,Cafe,"[""Cafe""]",budget,4.4,18,199,[]
+R0021,Mall Wok,Bangalore,West,Chinese,"[""Chinese""]",mid,3.7,31,149,[]
+R0022,Ahuja Da Dhaba,Chennai,South,North Indian,"[""North Indian""]",mid,3.8,26,149,[]
+R0023,Sweet Dutta,Bangalore,West,Desserts & Bakery,"[""Desserts & Bakery""]",mid,3.3,20,149,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 10}]"
+R0024,Royal Sami Biryani,Hyderabad,North,Biryani,"[""Biryani""]",mid,4.3,25,249,[]
+R0025,Oak Mughlai House,Delhi,North,Mughlai,"[""Mughlai""]",premium,4.1,50,249,[]
+R0026,Punjab Mall,Pune,East,North Indian,"[""North Indian""]",mid,4.7,19,149,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 10}]"
+R0027,Desi Dugal,Mumbai,South,North Indian,"[""North Indian""]",budget,4.6,26,149,"[{""type"": ""free_item"", ""min_order"": 399, ""free_item"": ""Free Dessert""}]"
+R0028,Orient Kale,Chennai,East,Chinese,"[""Chinese""]",budget,3.7,21,199,"[{""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
+R0029,Nayar Da Dhaba,Bangalore,East,North Indian,"[""North Indian""]",mid,3.6,22,149,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}, {""type"": ""free_item"", ""min_order"": 399, ""free_item"": ""Free Dessert""}]"
+R0030,Royal Chaudry,Bangalore,East,Mughlai,"[""Mughlai""]",mid,3.5,22,0,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 10}]"
+R0031,Bombay Chanda,Kolkata,East,Street Food,"[""Street Food""]",budget,2.8,14,199,"[{""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0032,Rai Mughlai House,Bangalore,Central,Mughlai,"[""Mughlai""]",mid,4.3,37,299,[]
+R0033,The Chatterjee Patisserie,Hyderabad,North,Desserts & Bakery,"[""Desserts & Bakery""]",mid,3.9,22,249,[]
+R0034,The Parmer Kitchen,Mumbai,West,Continental,"[""Continental""]",budget,3.6,24,199,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 10}]"
+R0035,Madras Padmanabhan,Delhi,East,South Indian,"[""South Indian""]",mid,4.1,23,0,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}]"
+R0036,Chaat Lalla,Kolkata,Central,Street Food,"[""Street Food""]",mid,3.6,20,199,[]
+R0037,Bassi Wok,Kolkata,Central,Chinese,"[""Chinese""]",budget,4.1,10,199,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 20}, {""type"": ""free_item"", ""min_order"": 399, ""free_item"": ""Free Dessert""}]"
+R0038,Sharaf's Pizzeria,Delhi,East,Italian,"[""Italian""]",premium,3.8,29,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 10}]"
+R0039,Bombay Yadav,Kolkata,Central,Street Food,"[""Street Food""]",budget,4.0,38,249,[]
+R0040,Dash Darbar,Mumbai,West,Mughlai,"[""Mughlai""]",budget,4.2,23,0,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 20}]"
+R0041,Udupi Radhakrishnan,Kolkata,Central,South Indian,"[""South Indian""]",mid,4.5,17,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 20}, {""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0042,Brar Dosa Corner,Bangalore,North,South Indian,"[""South Indian""]",mid,4.1,29,249,"[{""type"": ""free_item"", ""min_order"": 399, ""free_item"": ""Free Dessert""}]"
+R0043,Memon Tiffins,Pune,West,South Indian,"[""South Indian""]",premium,3.9,25,0,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 15}, {""type"": ""free_item"", ""min_order"": 399, ""free_item"": ""Free Dessert""}]"
+R0044,Pathak Darbar,Hyderabad,Central,Mughlai,"[""Mughlai""]",premium,3.4,23,149,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}, {""type"": ""free_item"", ""min_order"": 399, ""free_item"": ""Free Dessert""}]"
+R0045,Udupi Handa,Bangalore,Central,South Indian,"[""South Indian""]",budget,4.7,13,149,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 10}]"
+R0046,Boase Biryani Centre,Hyderabad,North,Biryani,"[""Biryani""]",budget,3.9,33,0,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 10}]"
+R0047,Desi Bath,Hyderabad,Central,North Indian,"[""North Indian""]",premium,3.9,27,199,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}, {""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
+R0048,La Kari,Lucknow,South,Italian,"[""Italian""]",mid,3.6,29,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 10}]"
+R0049,Mann Italian Kitchen,Kolkata,North,Italian,"[""Italian""]",mid,4.0,19,199,[]
+R0050,La Buch,Jaipur,South,Italian,"[""Italian""]",mid,4.1,35,249,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}]"
+R0051,Kaul Biryani House,Hyderabad,South,Biryani,"[""Biryani""]",premium,3.9,10,249,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 15}]"
+R0052,Chaudhuri Street Bites,Bangalore,Central,Street Food,"[""Street Food""]",mid,3.7,11,299,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 15}]"
+R0053,Rai Da Dhaba,Mumbai,South,North Indian,"[""North Indian""]",budget,3.2,28,149,[]
+R0054,Mall's Coffee,Hyderabad,South,Cafe,"[""Cafe""]",budget,3.5,18,0,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}]"
+R0055,Urban Setty,Mumbai,North,Continental,"[""Continental""]",mid,3.5,26,249,"[{""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
+R0056,Bombay Patla,Chennai,West,Street Food,"[""Street Food""]",premium,4.2,25,149,[]
+R0057,Gaba's Chaat,Mumbai,South,Street Food,"[""Street Food""]",mid,3.8,32,199,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}]"
+R0058,Dilli Prabhakar,Mumbai,Central,Street Food,"[""Street Food""]",premium,3.8,17,149,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 15}]"
+R0059,Orient Pant,Hyderabad,North,Chinese,"[""Chinese""]",mid,4.5,40,149,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}, {""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0060,Kadakia Tiffins,Ahmedabad,West,South Indian,"[""South Indian""]",budget,3.6,19,0,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}, {""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0061,Loke's Dhaba,Bangalore,West,North Indian,"[""North Indian""]",premium,3.7,17,299,[]
+R0062,Bora Chinese Kitchen,Chennai,Central,Chinese,"[""Chinese""]",mid,2.9,45,249,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}]"
+R0063,Dragon Garg,Delhi,Central,Chinese,"[""Chinese""]",mid,4.1,11,0,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 20}, {""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
+R0064,China Walla,Hyderabad,North,Chinese,"[""Chinese""]",budget,3.5,31,199,[]
+R0065,Konda Dosa Corner,Ahmedabad,East,South Indian,"[""South Indian""]",premium,4.0,20,299,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 10}]"
+R0066,Gade's Pizzeria,Mumbai,Central,Italian,"[""Italian""]",mid,4.1,28,0,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}]"
+R0067,Shere's Pizzeria,Bangalore,South,Italian,"[""Italian""]",mid,2.6,37,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 20}]"
+R0068,The Raghavan Kitchen,Hyderabad,South,Continental,"[""Continental""]",mid,4.4,17,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 10}]"
+R0069,Madan's Cafe,Kolkata,Central,Continental,"[""Continental""]",budget,4.2,18,0,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 10}]"
+R0070,Kanda Kitchen,Hyderabad,East,North Indian,"[""North Indian""]",mid,3.8,45,199,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 15}, {""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0071,Nair Mughlai House,Chennai,South,Mughlai,"[""Mughlai""]",budget,2.9,36,199,"[{""type"": ""free_item"", ""min_order"": 399, ""free_item"": ""Free Dessert""}]"
+R0072,China Bhalla,Hyderabad,East,Chinese,"[""Chinese""]",mid,4.4,30,149,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 10}, {""type"": ""free_item"", ""min_order"": 399, ""free_item"": ""Free Dessert""}]"
+R0073,Karnik Wok,Mumbai,West,Chinese,"[""Chinese""]",budget,4.0,21,149,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 20}]"
+R0074,Bombay Balay,Delhi,Central,Street Food,"[""Street Food""]",budget,3.3,11,199,[]
+R0075,China Mutti,Ahmedabad,South,Chinese,"[""Chinese""]",budget,3.7,27,199,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}]"
+R0076,Royal Rattan Biryani,Mumbai,West,Biryani,"[""Biryani""]",mid,3.8,28,199,[]
+R0077,China Loyal,Hyderabad,West,Chinese,"[""Chinese""]",mid,4.5,22,149,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}]"
+R0078,Punjab Bhatti,Kolkata,North,North Indian,"[""North Indian""]",mid,2.8,15,199,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}, {""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0079,Kakar Tiffins,Hyderabad,East,South Indian,"[""South Indian""]",premium,3.7,33,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 20}]"
+R0080,Chaat Murty,Mumbai,Central,Street Food,"[""Street Food""]",mid,4.2,29,299,[]
+R0081,Sweet Kala,Mumbai,North,Desserts & Bakery,"[""Desserts & Bakery""]",budget,3.0,39,249,[]
+R0082,La Tata,Delhi,East,Italian,"[""Italian""]",premium,4.4,19,149,"[{""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
+R0083,Randhawa's Chaat,Mumbai,South,Street Food,"[""Street Food""]",premium,3.6,35,0,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 10}]"
+R0084,Punjab Shanker,Pune,East,North Indian,"[""North Indian""]",budget,3.9,29,199,[]
+R0085,Dhar Mughlai House,Delhi,Central,Mughlai,"[""Mughlai""]",mid,4.7,24,0,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 10}, {""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0086,Udupi Lanka,Hyderabad,West,South Indian,"[""South Indian""]",budget,3.7,31,149,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}]"
+R0087,Dewan Da Dhaba,Kolkata,West,North Indian,"[""North Indian""]",mid,3.3,14,249,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 15}]"
+R0088,Koshy Wok,Delhi,East,Chinese,"[""Chinese""]",budget,3.9,26,299,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 15}]"
+R0089,Yohannan Da Dhaba,Chennai,Central,North Indian,"[""North Indian""]",mid,3.3,43,0,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 15}, {""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0090,Lall Da Dhaba,Ahmedabad,West,North Indian,"[""North Indian""]",mid,3.9,40,0,[]
+R0091,Sangha's Chaat,Chennai,Central,Street Food,"[""Street Food""]",premium,4.5,33,0,"[{""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0092,Desi Rastogi,Hyderabad,North,North Indian,"[""North Indian""]",budget,4.0,20,0,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 20}]"
+R0093,La Pathak,Delhi,North,Italian,"[""Italian""]",mid,3.2,36,199,"[{""type"": ""percentage"", ""min_order"": 499, ""discount_pct"": 10}]"
+R0094,Paradise Kanda,Mumbai,Central,Biryani,"[""Biryani""]",mid,4.4,31,199,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 15}, {""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
+R0095,Desi Devi,Pune,West,North Indian,"[""North Indian""]",mid,5.0,19,149,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 10}]"
+R0096,Upadhyay's Chaat,Delhi,South,Street Food,"[""Street Food""]",mid,4.2,21,249,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}]"
+R0097,Tak Da Dhaba,Bangalore,East,North Indian,"[""North Indian""]",budget,3.7,18,249,[]
+R0098,Cafe Chand,Chennai,East,Cafe,"[""Cafe""]",budget,3.9,28,199,"[{""type"": ""percentage"", ""min_order"": 399, ""discount_pct"": 20}, {""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
+R0099,Batta Da Dhaba,Kolkata,West,North Indian,"[""North Indian""]",budget,3.6,15,249,"[{""type"": ""free_item"", ""min_order"": 599, ""free_item"": ""Free Dessert""}]"
+R0100,Desi Choudhary,Hyderabad,Central,North Indian,"[""North Indian""]",premium,3.7,34,149,"[{""type"": ""percentage"", ""min_order"": 299, ""discount_pct"": 10}, {""type"": ""free_item"", ""min_order"": 499, ""free_item"": ""Free Dessert""}]"
